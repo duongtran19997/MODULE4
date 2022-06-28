@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db7b8dfe-f08c-47f3-b777-84433c48c0fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/users/error.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/users/register.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/users/success.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-viet-blog-don-gian/.idea/[Bai-tap]-Xay-dung-ung-dung-viet-blog-don-gian.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-viet-blog-don-gian/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-viet-blog-don-gian/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-viet-blog-don-gian/views/blog.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-viet-blog-don-gian/views/error.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-viet-blog-don-gian/views/view.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-trang-hien-thi-danh-sach-hinh-anh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-trang-hien-thi-danh-sach-hinh-anh/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-trang-hien-thi-danh-sach-hinh-anh/views/home.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-trang-hien-thi-danh-sach-hinh-anh/views/home.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[thuc-hanh]-xay-dung-ung-dung-expressjs-hello-world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[thuc-hanh]-xay-dung-ung-dung-expressjs-hello-world/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -55,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656425566542</updated>
       <workItem from="1656425568182" duration="3224000" />
+      <workItem from="1656429132355" duration="2368000" />
     </task>
     <servers />
   </component>
