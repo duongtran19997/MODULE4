@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5439928e-95c4-4c35-9b88-dda3957e7790" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/[Bai-tap]-Xay-dung-ung-dung-viet-blog-don-gian.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/blog.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/error.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/view.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-trang-hien-thi-danh-sach-hinh-anh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-trang-hien-thi-danh-sach-hinh-anh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-trang-hien-thi-danh-sach-hinh-anh/views/home.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-trang-hien-thi-danh-sach-hinh-anh/views/home.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-ung-dung-dang-ky/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-ung-dung-dang-ky/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[thuc-hanh]-xay-dung-ung-dung-expressjs-hello-world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[thuc-hanh]-xay-dung-ung-dung-expressjs-hello-world/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/views/create.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/views/error.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/views/view.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/error.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/error.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656429114108</updated>
       <workItem from="1656429115151" duration="2381000" />
+      <workItem from="1656431872776" duration="1395000" />
     </task>
     <servers />
   </component>

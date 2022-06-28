@@ -1,0 +1,13 @@
+<h3>The company is about to go bankrupt</h3>
+
+<h4>list Employee</h4>
+<% company.forEach(employee=>{    %>
+    <p>ID: <%= employee.id %></p>
+
+    <p>NAME: <%= employee.name %></p>
+
+    <p>department: <%= employee.department %></p>
+
+    <a href="/delete?id=<%= employee.id %>">delete employee</a>
+
+<% })%>
