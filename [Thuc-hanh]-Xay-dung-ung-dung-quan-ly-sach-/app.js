@@ -8,7 +8,7 @@ const PORT = 3000;
 
 //tao server lang nghe port
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.urlencoded({extended: true}));
 
 
 app.set('view engine', 'ejs');
@@ -30,30 +30,39 @@ const conn = mysql.createConnection({
 });
 
 conn.connect((err) => {
-      if(err){
-          console.log(err);
-      } else{
-          console.log('Connect succeeded')
-      }
+        if (err) {
+            console.log(err);
+        } else {
+            console.log('Connect succeeded')
+        }
     }
 );
 
 app.get('/create', (req, res) => {
     res.render('create')
 });
-
-app.post('/book/create',upload.none(), (req, res) => {
-    const {name,price,quantity,author} = req.body;
-    const sql = `insert into books (name, price, quantity, author) values ?`;
-    const value = [
-
-        [name, price, quantity, author]
-
-    ];
-    conn.query(sql,[value],(err,result) => {
+app.get('/', (req, res) => {
+    const sql = 'select * from books'
+    conn.query(sql, (err,results)=>{
         if(err){
             console.log(err.message);
         }else{
+            res.render('list',{books: results})
+        }
+    })
+})
+
+
+app.post('/book/create', upload.none(), (req, res) => {
+    const {name, price, quantity, author} = req.body;
+    const sql = `insert into books (name, price, quantity, author) values ?`;
+    const value = [
+        [name, price, quantity, author]
+    ];
+    conn.query(sql, [value], (err, result) => {
+        if (err) {
+            console.log(err.message);
+        } else {
             res.render('success')
         }
     })
