@@ -5,9 +5,9 @@ class AdminModel {
         this.conn = database.connect()
     }
 
-    show() {
+    show(start,end) {
         return new Promise((resolve, reject) => {
-            let sql = 'select * from staff';
+            let sql = `select * from staff limit ${end} offset ${start}`;
             this.conn.query(sql, (err, data) => {
                 if (err) {
                     reject(err)

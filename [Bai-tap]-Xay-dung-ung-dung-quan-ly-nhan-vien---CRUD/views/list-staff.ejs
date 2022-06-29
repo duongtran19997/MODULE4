@@ -10,5 +10,7 @@
     <p><a href="/view?id=<%=staff.id%>">view more information</a></p>
     <p><a href="/delete?id=<%=staff.id%>">delete</a></p>
     </br><% } %>
+    <a href="/?page=<%= (page-1)%>">previous page</a>
+    <a href="/?page=<%= (page+1)%>">next page</a>
   </body>
 </html>

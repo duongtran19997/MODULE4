@@ -9,8 +9,13 @@ app.use(bodyParser.json());
 
 class Controllers {
     showList(req,res){
-       let list = AdminModel.show().then(result=>{
-           res.render('list-staff',{result: result});
+        let page = parseInt(req.query.page) || 1;
+        let perPage = 5;
+        let start = (page - 1) * perPage;
+        let end = page + perPage;
+        console.log(page);
+        let list = AdminModel.show(start,end).then(result=>{
+           res.render('list-staff',{result: result,page:page});
        })
     };
 
