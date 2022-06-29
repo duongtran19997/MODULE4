@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d28e3a32-d146-4d4d-902c-9866dc75f214" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/views/detail.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/list-book.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/[Thuc-hanh]-Xay-dung-ung-dung-quan-ly-sach---Them-sach.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/[Thuc-hanh]-Xay-dung-ung-dung-quan-ly-sach---Them-sach.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/list.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/list.ejs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +37,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MODULE4\tuan1\[Thuc-hanh]-Xay-dung-ung-dung-quan-ly-sach-\views" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -54,7 +60,7 @@
       <updated>1656468820837</updated>
       <workItem from="1656468821950" duration="5045000" />
       <workItem from="1656485451527" duration="2000" />
-      <workItem from="1656485707445" duration="1593000" />
+      <workItem from="1656485707445" duration="5487000" />
     </task>
     <servers />
   </component>

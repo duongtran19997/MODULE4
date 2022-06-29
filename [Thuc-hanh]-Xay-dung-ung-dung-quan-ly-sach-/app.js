@@ -38,6 +38,19 @@ conn.connect((err) => {
     }
 );
 
+app.delete('/book/delete/:id', (req, res) => {
+    const sql = "DELETE FROM books WHERE id = " + req.params.id;
+
+    conn.query(sql, function (err, result) {
+
+        if (err) throw err;
+
+        res.json({status: 200, message: "delete success"})
+        console.log("success")
+    });
+
+})
+
 app.get('/create', (req, res) => {
     res.render('create')
 });
@@ -47,7 +60,7 @@ app.get('/', (req, res) => {
         if(err){
             console.log(err.message);
         }else{
-            res.render('list',{books: results})
+            res.render('list-book',{books: results})
         }
     })
 });
@@ -57,8 +70,7 @@ app.get('/book/detail',((req, res) => {
     const sql = `select * from books where id = ${req.query.id}`;
     conn.query(sql,(err,result) => {
         if(err) throw err
-
-            console.log(result);
+        console.log(result);
         res.render('detail',{book: result[0]})
     })
 }))
