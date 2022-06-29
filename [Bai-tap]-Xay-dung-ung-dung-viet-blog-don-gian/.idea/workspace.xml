@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5439928e-95c4-4c35-9b88-dda3957e7790" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/views/create.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/views/error.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/views/view.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/error.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/error.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-ung-dung-quan-ly-sach---Them-sach/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-ung-dung-quan-ly-sach---Them-sach/views/create.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +55,7 @@
       <updated>1656429114108</updated>
       <workItem from="1656429115151" duration="2381000" />
       <workItem from="1656431872776" duration="1395000" />
+      <workItem from="1656478318933" duration="122000" />
     </task>
     <servers />
   </component>

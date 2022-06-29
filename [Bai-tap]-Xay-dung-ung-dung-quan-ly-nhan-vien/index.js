@@ -2,9 +2,7 @@ const express = require('express');
 const app = express();
 const multer = require('multer');
 const upload = multer()
-const path = require('path');
 const port = 4000;
-const router = require('./routes/router');
 let company = []
 app.set('view engine', 'ejs');
 app.set('views','views');
