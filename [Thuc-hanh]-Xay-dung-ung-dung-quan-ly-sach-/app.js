@@ -50,7 +50,18 @@ app.get('/', (req, res) => {
             res.render('list',{books: results})
         }
     })
-})
+});
+
+app.get('/book/detail',((req, res) => {
+    console.log(req.query.id);
+    const sql = `select * from books where id = ${req.query.id}`;
+    conn.query(sql,(err,result) => {
+        if(err) throw err
+
+            console.log(result);
+        res.render('detail',{book: result[0]})
+    })
+}))
 
 
 app.post('/book/create', upload.none(), (req, res) => {
