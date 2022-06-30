@@ -55,7 +55,6 @@ AppDataSource.initialize().then(async connection => {
         };
 
 
-
         const phone = await PhoneBookRepo.save(phoneData);
 
         res.render("success");
