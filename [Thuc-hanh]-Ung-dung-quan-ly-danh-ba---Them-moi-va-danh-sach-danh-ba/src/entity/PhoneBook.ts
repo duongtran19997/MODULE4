@@ -17,7 +17,6 @@ import {
 export class PhoneBook {
 
     @PrimaryGeneratedColumn()
-
     public readonly id: number;
 
 
@@ -52,13 +51,13 @@ export class PhoneBook {
 
 
 
-    @Column({ type: 'timestamp', default: () => "CURRENT_TIMESTAMP" })
+    @Column({ type: 'timestamp', default:() => "CURRENT_TIMESTAMP" })
 
     public created_at: string;
 
 
 
-    @Column({ type: 'timestamp', default: () => "CURRENT_TIMESTAMP" })
+    @Column({ type: 'timestamp', default:() => "CURRENT_TIMESTAMP" })
 
     public updated_at: string;
 }

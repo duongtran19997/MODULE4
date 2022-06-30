@@ -43,17 +43,12 @@ AppDataSource.initialize().then(async connection => {
     app.post("/phone/create", upload.none(), async (req, res) => {
 
         const phoneData = {
-
             name: req.body.name,
-
             address: req.body.address,
-
             email: req.body.email,
-
-            phone: req.body.phone
-
+            note: 'sadsad',
+            phone: req.body.phone,
         };
-
 
         const phone = await PhoneBookRepo.save(phoneData);
 

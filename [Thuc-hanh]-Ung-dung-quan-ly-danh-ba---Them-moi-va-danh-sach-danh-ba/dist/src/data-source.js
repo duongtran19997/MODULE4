@@ -10,7 +10,7 @@ exports.AppDataSource = new typeorm_1.DataSource({
     username: "root",
     password: "password",
     database: "company",
-    synchronize: true,
+    synchronize: false,
     logging: false,
     entities: ["dist/src/entity/*.js"],
     migrations: ["dist/src/migrations/*.js"],
