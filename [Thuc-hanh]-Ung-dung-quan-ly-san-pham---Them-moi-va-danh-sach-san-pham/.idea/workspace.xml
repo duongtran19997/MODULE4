@@ -7,11 +7,6 @@
     <list default="true" id="e6ae547a-336e-407b-ad55-2ea5c301cee5" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/tsconfig.build.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/data-source.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/entity/User.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/tsconfig.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656562450488</updated>
-      <workItem from="1656562451644" duration="1073000" />
+      <workItem from="1656562451644" duration="1617000" />
     </task>
     <servers />
   </component>
