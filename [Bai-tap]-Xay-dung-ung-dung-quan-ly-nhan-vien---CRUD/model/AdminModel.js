@@ -23,7 +23,9 @@ class AdminModel {
             let name = user.sname;
             let email = user.email;
             let position = user.position;
-            let sql = `insert into staff (sname, email,position) values ('${name}', '${email}', '${position}');`;
+            let imgPath = user.imgPath;
+            console.log(imgPath);
+            let sql = `insert into staff (sname, email,position,imgPath) values ('${name}', '${email}', '${position}','${imgPath}')`;
             database.connect().query(sql, (err, data) => {
                 if (err) {
                     reject(err);

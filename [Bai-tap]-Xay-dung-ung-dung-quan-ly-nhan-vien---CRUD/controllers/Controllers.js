@@ -3,6 +3,8 @@ const AdminModel = new adminModel;
 const bodyParser = require('body-parser');
 const express = require("express");
 const app = express();
+const multer = require('multer');
+const upload = multer();
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
@@ -23,9 +25,21 @@ class Controllers {
         res.render('create');
     };
 
-    createNewStaff(req,res){
-        let staff = AdminModel.createStaff(req.body).then(result=>{
+    createNewStaff(req,res, next){
+        let file = req.file;
+
+        let staffs = req.body;
+        if(!file){
+            const error = new Error('Error occur')
+            error.httpStatusCode = 400
+            return next(error)
+        }
+        staffs.imgPath = 'uploads/' + file.filename;
+        console.log(staffs)
+        AdminModel.createStaff(staffs).then(result=>{
             res.redirect('/')
+        }).catch(err=>{
+            console.log(err)
         })
     };
 

@@ -4,7 +4,9 @@
     <title>Staff</title>
   </head>
   <body>
-    <h3>List Staff</h3><% for (const staff of result) { %> <p>Name: <%= staff.sname %> </p>
+    <h3>List Staff</h3><% for (const staff of result) { %>
+      <p >Avatar<img style="height: 75px; width: 75px; border-radius: 50%; object-fit: cover;" src="<%= staff.imgPath || "/public/uploads/no-avatar.png" %>" alt=""></p>
+      <p>Name: <%= staff.sname %> </p>
     <p>Email: <%= staff.email %> </p>
     <p>Position: <%= staff.position %> </p>
     <p><a href="/view?id=<%=staff.id%>">view more information</a></p>
