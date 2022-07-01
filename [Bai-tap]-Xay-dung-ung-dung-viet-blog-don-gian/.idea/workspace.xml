@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5439928e-95c4-4c35-9b88-dda3957e7790" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-ung-dung-quan-ly-sach---Them-sach/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-ung-dung-quan-ly-sach---Them-sach/views/create.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/src/data-source.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/src/entity/blog.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/src/views/create.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/src/views/list-blog.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/src/views/success.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien---CRUD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien---CRUD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +62,7 @@
       <workItem from="1656429115151" duration="2381000" />
       <workItem from="1656431872776" duration="1395000" />
       <workItem from="1656478318933" duration="122000" />
+      <workItem from="1656601881320" duration="1318000" />
     </task>
     <servers />
   </component>

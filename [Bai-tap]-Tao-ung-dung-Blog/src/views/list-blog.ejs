@@ -1,0 +1,9 @@
+<h3>BLOG FOR BITCH</h3>
+
+<h4>User</h4>
+<% blogs.forEach(blog=>{    %>
+    <p>TITLE: <%= blog.title %></p>
+
+    <p>CONTENT: <%= blog.content %></p>
+    <a href="/delete?id=<%= blog.id%>">Delete </a>
+<% })%>
