@@ -15,6 +15,8 @@ AppDataSource.initialize().then(async connection => {
 
     app.use(bodyParser.json());
 
+    app.use(bodyParser.urlencoded({ extended: true }));
+
     app.use(express.json());
 
     const BlogRepo = connection.getRepository(Blog);

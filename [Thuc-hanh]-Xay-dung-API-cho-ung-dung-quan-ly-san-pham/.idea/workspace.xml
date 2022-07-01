@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4bc1f17-a3a4-4098-89f4-5f8b85b3fd0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/src/data-source.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/src/entity/blog.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/src/views/create.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/src/views/list-blog.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/src/views/success.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/tsconfig.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data-source.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Product.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien---CRUD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien---CRUD/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-viet-blog-don-gian/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-viet-blog-don-gian/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Ung-dung-quan-ly-san-pham---Them-moi-va-danh-sach-san-pham/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Ung-dung-quan-ly-san-pham---Them-moi-va-danh-sach-san-pham/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e4bc1f17-a3a4-4098-89f4-5f8b85b3fd0d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656639735810</updated>
-      <workItem from="1656639737003" duration="2756000" />
+      <workItem from="1656639737003" duration="2898000" />
     </task>
     <servers />
   </component>

@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d5bbf6d-5da5-477a-85d4-e13d46488ef2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data-source.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/blog.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/create.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/list-blog.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/success.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien---CRUD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-quan-ly-nhan-vien---CRUD/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-viet-blog-don-gian/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-viet-blog-don-gian/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Ung-dung-quan-ly-san-pham---Them-moi-va-danh-sach-san-pham/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Ung-dung-quan-ly-san-pham---Them-moi-va-danh-sach-san-pham/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-API-cho-ung-dung-quan-ly-san-pham/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-API-cho-ung-dung-quan-ly-san-pham/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +53,7 @@
       <updated>1656600262021</updated>
       <workItem from="1656600263499" duration="5519000" />
       <workItem from="1656637587151" duration="686000" />
+      <workItem from="1656661814468" duration="1642000" />
     </task>
     <servers />
   </component>
