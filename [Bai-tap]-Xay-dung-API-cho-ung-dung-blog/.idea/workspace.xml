@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5606074a-fadb-43bd-a34e-a51a4c9b8dde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/[Bai-tap]-Xay-dung-API-cho-ung-dung-blog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data-source.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/blog.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/src/data-source.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-Tao-ung-dung-Blog/src/data-source.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Su-dung-API-cua-OpenWeather-de-tao-ung-dung-du-bao-thoi-tiet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Su-dung-API-cua-OpenWeather-de-tao-ung-dung-du-bao-thoi-tiet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-API-cho-ung-dung-quan-ly-san-pham/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-API-cho-ung-dung-quan-ly-san-pham/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-API-cho-ung-dung-quan-ly-san-pham/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-API-cho-ung-dung-quan-ly-san-pham/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-API-cho-ung-dung-quan-ly-san-pham/dist/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-API-cho-ung-dung-quan-ly-san-pham/dist/index.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-API-cho-ung-dung-quan-ly-san-pham/dist/tsconfig.build.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-API-cho-ung-dung-quan-ly-san-pham/dist/tsconfig.build.tsbuildinfo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-API-cho-ung-dung-quan-ly-san-pham/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Xay-dung-API-cho-ung-dung-quan-ly-san-pham/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon/.idea/[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon/src/data-source.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon/src/entity/pokemon.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon/src/views/views.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon/tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -62,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656755221875</updated>
-      <workItem from="1656755223216" duration="6932000" />
+      <workItem from="1656755223216" duration="8073000" />
     </task>
     <servers />
   </component>

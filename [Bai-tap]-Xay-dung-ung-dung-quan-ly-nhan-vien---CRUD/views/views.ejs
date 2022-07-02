@@ -7,8 +7,9 @@
 <h3>List Staff</h3><% for (const staff of result) { %> <p>Name: <%= staff.sname %> </p>
 <p>Email: <%= staff.email %> </p>
 <p>Position: <%= staff.position %> </p>
-</br><% } %>
-
+<% } %>
+<a href="/?page=<%= (page-1)%>">previous page</a>
+<a href="/?page=<%= (page+1)%>">next page</a>
 
 </body>
 </html>

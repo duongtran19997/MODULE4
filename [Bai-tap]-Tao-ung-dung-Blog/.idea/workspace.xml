@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d5bbf6d-5da5-477a-85d4-e13d46488ef2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-API-cho-ung-dung-blog/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-API-cho-ung-dung-blog/src/data-source.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-API-cho-ung-dung-blog/src/entity/blog.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-API-cho-ung-dung-blog/tsconfig.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-API-cho-ung-dung-blog/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data-source.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/data-source.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Su-dung-API-cua-OpenWeather-de-tao-ung-dung-du-bao-thoi-tiet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Su-dung-API-cua-OpenWeather-de-tao-ung-dung-du-bao-thoi-tiet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon/.idea/[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon/src/data-source.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon/src/entity/pokemon.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon/src/views/views.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon/tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-ung-dung-tra-cuu-thong-tin-Pokemon/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-API-cho-ung-dung-blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-API-cho-ung-dung-blog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-API-cho-ung-dung-blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-Xay-dung-API-cho-ung-dung-blog/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +61,7 @@
       <workItem from="1656637587151" duration="686000" />
       <workItem from="1656661814468" duration="1642000" />
       <workItem from="1656688227940" duration="3457000" />
+      <workItem from="1656771038320" duration="23000" />
     </task>
     <servers />
   </component>

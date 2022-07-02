@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Pokemon</title>
+</head>
+<body>
+<h3>List Staff</h3>
+<% for (const pokemon of dataPokemon) { %>
+<p>Name: <%= pokemon.name %> </p>
+<p>Detail:<a href="<%= pokemon.url %>">pokemon.url</a>  </p>
+<% } %>
+<a href="/?page=<%= (page-1)%>">previous page</a>
+<a href="/?page=<%= (page+1)%>">next page</a>
+
+
+</body>
+</html>
