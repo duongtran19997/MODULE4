@@ -12,39 +12,35 @@ AppDataSource.initialize().then(async connection => {
 
     const ProductRepo = connection.getRepository(Product);
 
-    app.post('/products.create', async (req, res) => {
+    app.post('/products/create', async (req, res) => {
         try {
             const productSearch = ProductRepo.findOneBy({name: req.body.name});
             if (productSearch) {
                 res.status(500).json({
                     message: 'product is having'
                 })
-            }
-            const productData ={
+            }else{ const productData ={
                 name : req.body.name,
                 avartar: req.body.avartar,
                 author: req.body.author,
                 price: req.body.price
             };
-            const product = await ProductRepo.save(productData);
-            if (product) {
+                const product = await ProductRepo.save(productData);
+                if (product) {
 
-                res.status(200).json({
+                    res.status(200).json({
 
-                    message: "Create product success",
+                        message: "Create product success",
 
-                    product: product
+                        product: product
 
-                });
-
-
-
-
+                    });}
             }
         } catch (e) {
             res.status(500).json({
                 message: e.message
             })
+            console.log('123')
         }
     });
     app.put("/product/update", async (req, res) => {

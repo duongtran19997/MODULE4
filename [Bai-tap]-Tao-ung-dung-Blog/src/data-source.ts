@@ -18,7 +18,7 @@ export const AppDataSource = new DataSource({
 
     database: "company",
 
-    synchronize: true,
+    synchronize: false,
 
     logging: false,
 
